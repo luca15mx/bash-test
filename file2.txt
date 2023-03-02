@@ -1,0 +1,4 @@
+Input: geek
+       for
+       geeks
+3 file1.txt
